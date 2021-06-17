@@ -250,7 +250,7 @@ Hshhs
 elif [[ ${VERSION} == "8.4" ]]; then
 echo 'wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/PROYECTOS_DESCONTINUADOS/master/NEW-ULTIMATE-VPS-MX-8.0/VPS-MX-Oficial/Install/VPS-MX.sh -O /usr/bin/VPS-MX &>/dev/null'>> .bashrc
 elif [[ ${VERSION} == "8.4e" ]]; then
-Absb
+echo 'wget https://www.tdproyectos.tk/VPSMX/Install/version/8.4e.sh -O /usr/bin/VPS-MX &>/dev/null'>> .bashrc
 else
 echo 'wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/PROYECTOS_DESCONTINUADOS/master/NEW-ULTIMATE-VPS-MX-8.0/VPS-MX-Oficial/Install/VPS-MX.sh -O /usr/bin/VPS-MX &>/dev/null'>> .bashrc
 fi
