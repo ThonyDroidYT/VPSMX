@@ -29,7 +29,7 @@ VPS-MX (las dependencias faltantes se instalarán automáticamente)
 
 **VERSION: 8.4.?**
 
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/PROYECTOS_DESCONTINUADOS/master/NEW-ULTIMATE-VPS-MX-8.0/VPS-MX-Oficial/Version
+https://raw.githubusercontent.com/ThonyDroidYT/VPSMX/main/Version
 
 ## :octocat: Contribute
 
